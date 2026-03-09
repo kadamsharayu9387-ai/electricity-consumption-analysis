@@ -209,5 +209,6 @@ Potential improvements for the project include:
 **Sharayu Kadam**
 
 - GitHub: https://github.com/kadamsharayu9387-ai
-
+- Tableau Dashboard: https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/Dashboard1?publish=yes
+- Tableau Story: https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/StoryofElectricityConsumptioninIndia?publish=yes
 ⭐ If you found this project useful, consider **starring the repository**.
