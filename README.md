@@ -209,6 +209,5 @@ Potential improvements for the project include:
 **Sharayu Kadam**
 
 - GitHub: https://github.com/kadamsharayu9387-ai
-- LinkedIn: *(Add your LinkedIn profile here)*
 
 ⭐ If you found this project useful, consider **starring the repository**.
