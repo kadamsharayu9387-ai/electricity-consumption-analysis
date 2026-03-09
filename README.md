@@ -157,16 +157,16 @@ git clone https://github.com/kadamsharayu9387-ai/electricity-consumption-analysi
 cd electricity-consumption-analysis
 ```
 
-### 3️⃣ Install Required Libraries
+### 3️⃣ Launch Application
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+python temp.py
 ```
 
-### 4️⃣ Run the Jupyter Notebook
+### 4️⃣  Access Local Server
 
 ```bash
-jupyter notebook
+http://127.0.0.1:5000/
 ```
 
 Open the analysis notebook and run all cells to reproduce the results.
