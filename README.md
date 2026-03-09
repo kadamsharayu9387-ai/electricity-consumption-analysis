@@ -143,16 +143,15 @@ These visualizations help identify patterns, anomalies, and recovery trends in e
 - VS Code
 
 ---
+#📂 Project Assets
 
-**📂 Project Assets**
+  🎬 Video Walkthrough Watch the complete 5–7 minute project demonstration : 🔗https://drive.google.com/drive/folders/1DZS2D0Ic3cVYjcgFi9T9D_TPnWIyrGWW 
 
- 🎬 Video Walkthrough Watch the complete 5–7 minute project demonstration : 🔗https://drive.google.com/drive/folders/1DZS2D0Ic3cVYjcgFi9T9D_TPnWIyrGWW 
+  📊 Tableau Public Dashboard Explore the interactive visualization dashboard :
+  🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/Dashboard1?publish=yes
 
- 📊 Tableau Public Dashboard Explore the interactive visualization dashboard :
- 🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/Dashboard1?publish=yes
-
- 📊 Tableau Public Dashboard Explore the interactive visualization story :
- 🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/StoryofElectricityConsumptioninIndia?publish=yes
+  📊 Tableau Public Dashboard Explore the interactive visualization story :
+  🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/StoryofElectricityConsumptioninIndia?publish=yes
 
 ---
 # ▶️ How to Run the Project
