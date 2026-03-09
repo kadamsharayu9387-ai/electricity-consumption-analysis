@@ -8,6 +8,7 @@
 - Key Analytical Scenarios
 - Visualizations & Insights
 - Tech Stack
+- Project Assets
 - How to Run the Project
 - Project Structure
 - Future Improvements
@@ -143,6 +144,17 @@ These visualizations help identify patterns, anomalies, and recovery trends in e
 
 ---
 
+📂 Project Assets
+
+🎬 Video Walkthrough Watch the complete 5–7 minute project demonstration : 🔗https://drive.google.com/drive/folders/1DZS2D0Ic3cVYjcgFi9T9D_TPnWIyrGWW 
+
+📊 Tableau Public Dashboard Explore the interactive visualization dashboard :
+🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/Dashboard1?publish=yes
+
+📊 Tableau Public Dashboard Explore the interactive visualization story :
+🔗 https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/StoryofElectricityConsumptioninIndia?publish=yes
+
+---
 # ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
@@ -209,11 +221,5 @@ Potential improvements for the project include:
 **Sharayu Kadam**
 
 - GitHub: https://github.com/kadamsharayu9387-ai
-- Tableau Dashboard:
-  https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/Dashboard1?publish=yes
-- Tableau Story:
-  https://public.tableau.com/app/profile/sharayu.kadam3041/viz/ElectricityConsumption_17728733289730/StoryofElectricityConsumptioninIndia?publish=yes
-- Demo Video:
-  https://drive.google.com/drive/folders/1DZS2D0Ic3cVYjcgFi9T9D_TPnWIyrGWW
 
 ⭐ If you found this project useful, consider **starring the repository**.
