@@ -148,7 +148,7 @@ These visualizations help identify patterns, anomalies, and recovery trends in e
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/electricity-consumption-analysis.git
+git clone 
 ```
 
 ### 2️⃣ Navigate to the Project Folder
