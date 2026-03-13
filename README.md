@@ -143,7 +143,7 @@ These visualizations help identify patterns, anomalies, and recovery trends in e
 - VS Code
 
 ---
-#📂 Project Assets
+**#📂 Project Assets**
 
   🎬 Video Walkthrough Watch the complete 5–7 minute project demonstration : 🔗https://drive.google.com/drive/folders/1DZS2D0Ic3cVYjcgFi9T9D_TPnWIyrGWW 
 
